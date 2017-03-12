@@ -5,7 +5,7 @@
 ## The makeCacheMatrix functin creates the special matrix object with
 ## 4 functions(set,get,setinverse,getinverse) for setting/getting the
 ## matrix and setting/getting the inverse of the matrix.
-## The cacheSolve fuction returns the inverse of a matrix. 
+## The cacheSolve fuction returns the inverse of matrix. 
 
 ## makeCacheMatrix function creates a special "matrix" object
 ## which can cache its inverse. This object has 4 methods, set, get, setinverse
